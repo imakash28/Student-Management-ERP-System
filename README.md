@@ -1,4 +1,5 @@
 # Student Management(ERP) System
+[![ERP](https://github.com/imakash28/Student-Management-ERP-System/blob/main/Student%20Management%20System%20Project%20In%20Django%20Source%20Code/media/Youtube.jpeg?raw=true)](https://youtu.be/4R0jwUYOc6s"Demo")
 
 
 # ADMIN PANEL
@@ -72,3 +73,53 @@ Staff Leave [Code](https://github.com/imakash28/Student-Management-ERP-System/bl
 ![Student Leave](https://github.com/imakash28/Student-Management-ERP-System/blob/main/Student%20Management%20System%20Project%20In%20Django%20Source%20Code/media/Admin%20Snapshots/Leave%20applied%20by%20staff.jpeg?raw=true)
 
 
+
+## STAFF PANEL
+
+### Staff View
+Staff Home [Code](https://github.com/imakash28/Student-Management-ERP-System/blob/main/Student%20Management%20System%20Project%20In%20Django%20Source%20Code/student_management_app/StaffViews.py)
+![Staff View](https://github.com/imakash28/Student-Management-ERP-System/blob/main/Student%20Management%20System%20Project%20In%20Django%20Source%20Code/media/Staff%20Snapshots/Teacher%20Dashboard.jpeg?raw=true)
+
+### Take Attendence
+Take Attendence [Code](https://github.com/imakash28/Student-Management-ERP-System/blob/main/Student%20Management%20System%20Project%20In%20Django%20Source%20Code/student_management_app/StaffViews.py#L72)
+![Take Attendence](https://github.com/imakash28/Student-Management-ERP-System/blob/main/Student%20Management%20System%20Project%20In%20Django%20Source%20Code/media/Staff%20Snapshots/Take%20Attendence.jpeg?raw=true)
+
+### View Update Attendence
+View Update Attendence [Code](https://github.com/imakash28/Student-Management-ERP-System/blob/main/Student%20Management%20System%20Project%20In%20Django%20Source%20Code/student_management_app/StaffViews.py#L165)
+![View Update Attendence](https://github.com/imakash28/Student-Management-ERP-System/blob/main/Student%20Management%20System%20Project%20In%20Django%20Source%20Code/media/Staff%20Snapshots/View%20update%20Attendence.jpeg?raw=true)
+
+### Add Result
+Add Result [Code](https://github.com/imakash28/Student-Management-ERP-System/blob/main/Student%20Management%20System%20Project%20In%20Django%20Source%20Code/student_management_app/StaffViews.py#L315)
+![Add Result](https://github.com/imakash28/Student-Management-ERP-System/blob/main/Student%20Management%20System%20Project%20In%20Django%20Source%20Code/media/Staff%20Snapshots/Add%20Result.jpeg?raw=true)
+
+### Apply Leave
+Apply Leave [Code](https://github.com/imakash28/Student-Management-ERP-System/blob/main/Student%20Management%20System%20Project%20In%20Django%20Source%20Code/student_management_app/StaffViews.py#L82)
+![Apply Leave](https://github.com/imakash28/Student-Management-ERP-System/blob/main/Student%20Management%20System%20Project%20In%20Django%20Source%20Code/media/Staff%20Snapshots/Leave%20Report%20and%20Apply%20for%20leave.jpeg?raw=true)
+
+### Feedback
+Feedback [Code](https://github.com/imakash28/Student-Management-ERP-System/blob/main/Student%20Management%20System%20Project%20In%20Django%20Source%20Code/student_management_app/StaffViews.py#L110)
+![Feedback](https://github.com/imakash28/Student-Management-ERP-System/blob/main/Student%20Management%20System%20Project%20In%20Django%20Source%20Code/media/Staff%20Snapshots/Feedback%20Message.jpeg?raw=true)
+
+
+
+## STUDENT PANEL
+
+### Student View
+Student Home [Code](https://github.com/imakash28/Student-Management-ERP-System/blob/main/Student%20Management%20System%20Project%20In%20Django%20Source%20Code/student_management_app/StudentViews.py)
+![Student Home](https://github.com/imakash28/Student-Management-ERP-System/blob/main/Student%20Management%20System%20Project%20In%20Django%20Source%20Code/media/Student%20Snapshots/Student%20Dashboard.jpeg?raw=true)
+
+### View Attendence
+View Attendence [Code](https://github.com/imakash28/Student-Management-ERP-System/blob/main/Student%20Management%20System%20Project%20In%20Django%20Source%20Code/student_management_app/StudentViews.py#L44)
+![View Attendence](https://github.com/imakash28/Student-Management-ERP-System/blob/main/Student%20Management%20System%20Project%20In%20Django%20Source%20Code/media/Student%20Snapshots/View%20attendence%20Data.jpeg?raw=true)
+
+### View Result
+View Result [Code](https://github.com/imakash28/Student-Management-ERP-System/blob/main/Student%20Management%20System%20Project%20In%20Django%20Source%20Code/student_management_app/StudentViews.py#L189)
+![View Result](https://github.com/imakash28/Student-Management-ERP-System/blob/main/Student%20Management%20System%20Project%20In%20Django%20Source%20Code/media/Student%20Snapshots/View%20Result.jpeg?raw=true)
+
+### Apply For Leave
+Apply for Leave [Code](https://github.com/imakash28/Student-Management-ERP-System/blob/main/Student%20Management%20System%20Project%20In%20Django%20Source%20Code/student_management_app/StudentViews.py#L94)
+![Apply for Leave](https://github.com/imakash28/Student-Management-ERP-System/blob/main/Student%20Management%20System%20Project%20In%20Django%20Source%20Code/media/Student%20Snapshots/Leave%20Report%20and%20Apply%20for%20leave.jpeg?raw=true)
+
+### Feedback
+Feedback [Code](https://github.com/imakash28/Student-Management-ERP-System/blob/main/Student%20Management%20System%20Project%20In%20Django%20Source%20Code/student_management_app/StudentViews.py#L122)
+![Feedback](https://github.com/imakash28/Student-Management-ERP-System/blob/main/Student%20Management%20System%20Project%20In%20Django%20Source%20Code/media/Student%20Snapshots/Feedback%20Message.jpeg?raw=true)
